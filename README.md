@@ -47,6 +47,7 @@
 graph TD
 A[T-story] --> B[thumbnail_maker]
 A --> C[tstory_notion]
+A --> D[auto_tagging]
 
 
 ```
